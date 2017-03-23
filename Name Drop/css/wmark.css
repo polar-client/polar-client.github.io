@@ -1,0 +1,18 @@
+.wmark {
+    -webkit-border-top-left-radius: 15px !important;
+    -moz-border-top-left-radius: 15px !important;
+    border-top-left-radius: 15px !important;
+    -webkit-border-bottom-left-radius: 15px !important;
+    -moz-border-bottom-left-radius: 15px !important;
+    border-bottom-left-radius: 15px !important;
+    float:right; bottom:0; right:-1em; 
+    background:rgba(255,255,255, 0.7); 
+    width:18em; 
+    height:4em; overflow:none; 
+    margin-bottom:2em; 
+    position:fixed;
+    }
+.wmark h4 {
+  margin-top:1em; 
+  margin-left:.5em;
+}
